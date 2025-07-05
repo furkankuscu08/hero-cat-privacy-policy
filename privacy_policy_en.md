@@ -1,7 +1,7 @@
 # Privacy Policy for Hero Cat: Fight Against Enemies
 
-**Effective Date:** June 29, 2025  
-**Last Updated:** June 29, 2025
+**Effective Date:** July 5, 2025  
+**Last Updated:** July 5, 2025
 
 ## 1. Introduction
 
@@ -11,17 +11,15 @@ By downloading, installing, or using the Game, you agree to the collection and u
 
 ## 2. Information We Collect
 
-### 2.1 Information You Provide
-- **Account Information:** If you create an account, we may collect your username and email address
-- **Support Communications:** When you contact us for support, we collect the information you provide in your communications
+### 2.1 Information Automatically Collected
+Our Game does not require an account or collect personal information directly from users. All data collected is strictly for game functionality, analytics, and advertising purposes.
 
-### 2.2 Information Automatically Collected
 - **Device Information:** Device type, operating system version, device identifiers
 - **Game Data:** Game progress, scores, levels completed, in-game statistics
 - **Usage Information:** How you interact with the Game, features used, time spent playing
 - **Technical Data:** IP address, app version, crash reports, performance data
 
-### 2.3 Advertising Information
+### 2.2 Advertising Information
 Our Game uses Google AdMob to display advertisements. AdMob may collect:
 - **Advertising ID:** Device advertising identifier
 - **Location Data:** Approximate location based on IP address
@@ -33,9 +31,8 @@ Our Game uses Google AdMob to display advertisements. AdMob may collect:
 We use the collected information for:
 - **Game Operation:** Providing and maintaining the Game functionality
 - **Game Improvement:** Analyzing usage patterns to improve gameplay experience
-- **Personalization:** Customizing your gaming experience
+- **Personalization:** Customizing your gaming experience (e.g., based on game progress)
 - **Advertising:** Displaying relevant advertisements through AdMob
-- **Support:** Responding to your inquiries and providing customer support
 - **Analytics:** Understanding how players interact with our Game
 - **Legal Compliance:** Complying with applicable laws and regulations
 
@@ -166,7 +163,7 @@ This Privacy Policy is designed to comply with:
 
 ---
 
-**Last Updated:** June 29, 2025  
+**Last Updated:** July 5, 2025  
 **Version:** 1.0
 
 *This Privacy Policy is effective as of the date listed above and applies to all users of Hero Cat: Fight Against Enemies.* 
